@@ -37,8 +37,6 @@ The papers or tutorials and relative source code of artificial intelligence for 
 
 - [Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958) : [Code](https://github.com/ashesh6810/DLC_Extreme)
 
-- [Neural networks for post-processing ensemble weather forecasts](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0187.1) : [Code](https://github.com/slerch/ppnn)
-
 - [Using machine learning to predict extreme events in complex systems](https://www.pnas.org/content/117/1/52) : [Code](https://github.com/qidigit/CNN_tKdV)
 
 - [The Application of Machine Learning Techniques to Improve El Niño Prediction Skill](https://www.frontiersin.org/articles/10.3389/fphy.2019.00153/full) : [Code](https://github.com/Ambrosys/climatelearn)
@@ -46,6 +44,11 @@ The papers or tutorials and relative source code of artificial intelligence for 
 - [ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events](https://arxiv.org/abs/1612.02095) : [Code](https://github.com/eracah/hur-detect)
 
 - [Deep learning for multi-year ENSO forecasts](https://www.nature.com/articles/s41586-019-1559-7) : [Code](https://doi.org/10.5281/zenodo.3244463)
+
+
+### Post-processing
+
+- [Neural networks for post-processing ensemble weather forecasts](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0187.1) : [Code](https://github.com/slerch/ppnn)
 
 
 ## Numerical Model
