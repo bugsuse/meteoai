@@ -46,11 +46,6 @@ The papers or tutorials and relative source code of artificial intelligence for 
 - [Deep learning for multi-year ENSO forecasts](https://www.nature.com/articles/s41586-019-1559-7) : [Code](https://doi.org/10.5281/zenodo.3244463)
 
 
-### Post-processing
-
-- [Neural networks for post-processing ensemble weather forecasts](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0187.1) : [Code](https://github.com/slerch/ppnn)
-
-
 ## Numerical Model
 
 - [Deep learning to represent sub-grid processes in climate models](https://www.pnas.org/content/115/39/9684) : [Code](https://github.com/raspstephan/CBRAIN-CAM)
@@ -66,6 +61,11 @@ The papers or tutorials and relative source code of artificial intelligence for 
 - [Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz '96 Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001896) : [Zenodo](http://doi.org/10.5281/zenodo.3663121)
 
 - [Weather and climate forecasting with neural networks: using GCMs with different complexity as study-ground](https://www.geosci-model-dev.net/12/2797/2019/) : [Zenodo](https://doi.org/10.5281/zenodo.2572863)
+
+### Post-processing
+
+- [Neural networks for post-processing ensemble weather forecasts](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-18-0187.1) : [Code](https://github.com/slerch/ppnn)
+
 
 
 ## Data Assimilation
