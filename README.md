@@ -12,7 +12,12 @@ The papers or tutorials and relative source code of artificial intelligence for 
 - [A daily global mesoscale ocean eddy dataset from satellite altimetry](https://www.nature.com/articles/sdata201528) : [Code](https://github.com/jfaghm/OceanEddies)
 
 
-## Weather Forecast
+## Satellite & Weather Radar
+
+- [Reconstruction of Cloud Vertical Structure with a Generative Adversarial Network](https://doi.org/10.31223/osf.io/w26ja) : [Code](https://github.com/jleinonen/cloudsat-gan)
+
+
+## Weather and Climate Forecast
 
 - [Nowcasting lightning occurrence from commonly available meteorological parameters using machine learning techniques](https://www.nature.com/articles/s41612-019-0098-0): The codes relevant to this paper are available upon request from the corresponding author.
 
@@ -32,6 +37,7 @@ The papers or tutorials and relative source code of artificial intelligence for 
 
 - [Improving Subseasonal Forecasting in the Western US with Machine Learning](https://arxiv.org/abs/1809.07394) : [Code](https://github.com/paulo-o/forecast_rodeo)
 
+- [Weather and climate forecasting with neural networks: using GCMs with different complexity as study-ground](https://www.geosci-model-dev.net/12/2797/2019/) : [Zenodo](https://doi.org/10.5281/zenodo.2572863)
 
 ### Extreme Events
 
@@ -48,11 +54,14 @@ The papers or tutorials and relative source code of artificial intelligence for 
 
 ## Numerical Model
 
+- [Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems](https://arxiv.org/abs/1909.00912) : [Code](https://github.com/raspstephan/CBRAIN-CAM)
+
+
+### Parameterization
+
 - [Deep learning to represent sub-grid processes in climate models](https://www.pnas.org/content/115/39/9684) : [Code](https://github.com/raspstephan/CBRAIN-CAM)
 
 - [Could machine learning break the convection parameterization deadlock?](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078202) : [Code](https://github.com/raspstephan/CBRAIN-CAM)
-
-- [Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems](https://arxiv.org/abs/1909.00912) : [Code](https://github.com/raspstephan/CBRAIN-CAM)
 
 - [A data-driven approach to precipitation parameterizations using convolutional encoder-decoder neural networks](https://arxiv.org/abs/1903.10274) : [Code](https://github.com/prl900/precip-encoder-decoders)
 
@@ -60,7 +69,6 @@ The papers or tutorials and relative source code of artificial intelligence for 
 
 - [Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz '96 Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001896) : [Zenodo](http://doi.org/10.5281/zenodo.3663121)
 
-- [Weather and climate forecasting with neural networks: using GCMs with different complexity as study-ground](https://www.geosci-model-dev.net/12/2797/2019/) : [Zenodo](https://doi.org/10.5281/zenodo.2572863)
 
 ### Post-processing
 
@@ -98,6 +106,5 @@ The papers or tutorials and relative source code of artificial intelligence for 
 - [Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1711.10566) : [Code](https://github.com/maziarraissi/PINNs)
 
 - [Learning data-driven discretizations for partial differential equations](https://www.pnas.org/content/116/31/15344) : [Code](https://github.com/google/data-driven-discretization-1d)
-
 
 
