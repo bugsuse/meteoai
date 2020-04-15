@@ -3,7 +3,7 @@
 The papers or tutorials and relative source code of artificial intelligence for meteorology, ocean and environment science.
 
 
-## Classification, Identify, Cluster
+## Classification, Detection, Cluster
 
 - [A cloud detection algorithm for satellite imagery based on deep learning](https://www.sciencedirect.com/science/article/pii/S0034425719301294) : [Code](https://github.com/JacobJeppesen/RS-Net)
 
