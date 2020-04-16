@@ -19,6 +19,11 @@ The papers or tutorials and relative source code of artificial intelligence for 
 - [Reconstruction of Cloud Vertical Structure with a Generative Adversarial Network](https://doi.org/10.31223/osf.io/w26ja) : [Code](https://github.com/jleinonen/cloudsat-gan)
 
 
+## Downscaling
+
+- [Conﬁguration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling](https://www.geosci-model-dev-discuss.net/gmd-2019-278/) : [Code](https://github.com/SantanderMetGroup/DeepDownscaling)
+
+
 ## Weather and Climate Forecast
 
 - [Nowcasting lightning occurrence from commonly available meteorological parameters using machine learning techniques](https://www.nature.com/articles/s41612-019-0098-0): The codes relevant to this paper are available upon request from the corresponding author.
