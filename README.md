@@ -46,6 +46,9 @@ The papers or tutorials and relative source code of artificial intelligence for 
 
 - [Weather and climate forecasting with neural networks: using GCMs with different complexity as study-ground](https://www.geosci-model-dev.net/12/2797/2019/) : [Zenodo](https://doi.org/10.5281/zenodo.2572863)
 
+- [Improving Subseasonal Forecasting in the Western US with Machine Learning](https://arxiv.org/abs/1809.07394) : [Code](https://github.com/paulo-o/forecast_rodeo)
+
+
 ### Extreme Events
 
 - [Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958) : [Code](https://github.com/ashesh6810/DLC_Extreme)
