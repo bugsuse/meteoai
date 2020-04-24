@@ -18,6 +18,10 @@ The papers or tutorials and relative source code of artificial intelligence for 
 
 - [Reconstruction of Cloud Vertical Structure with a Generative Adversarial Network](https://doi.org/10.31223/osf.io/w26ja) : [Code](https://github.com/jleinonen/cloudsat-gan)
 
+- [RainNet: a convolutional neural network for radar-based precipitation nowcasting](https://www.geosci-model-dev-discuss.net/gmd-2020-30/gmd-2020-30.pdf) : [Code](https://github.com/hydrogo/rainnet)
+
+- [Deep learning for precipitation nowcasting: A benchmark and a new model](https://papers.nips.cc/paper/7145-deep-learning-for-precipitation-nowcasting-a-benchmark-and-a-new-model.pdf) : [Code](https://github.com/sxjscience/HKO-7)
+
 
 ## Downscaling
 
